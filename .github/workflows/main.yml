@@ -25,6 +25,12 @@ jobs:
     # Runs a single command using the runners shell
     - name: Set up Ruby
       run: sudo apt-get install -y ruby
+    
+    - name: Swift Setup
+      uses: YOCKOW/Action-setup-swift@v1.1.0
+      with:
+        # The version of Swift.
+        swift-version: '5.2.2'
 
     # Runs a set of commands using the runners shell
     - name: Setup Vipergen Proper
@@ -32,9 +38,14 @@ jobs:
         echo Installing...
         sudo gem install vipergen
         
+    - name: Create Swift Project Container
+      run: |
+        mkdir testModule && cd testModule
+        swift package init --type executable
+        
     - name: Build Viper Project
       run: |
         echo "Creating simple Project..."
         mkdir testModule
-        vipergen generate TestModule --path=./testModule
+        vipergen generate TestModule --path=./testModule/Sources
         ls -R ./testModule
