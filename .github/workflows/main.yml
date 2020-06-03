@@ -47,4 +47,5 @@ jobs:
       run: |
         echo "Creating simple Project..."
         vipergen generate TestModule --path=./testModule/Sources
-        ls -R ./testModule
+        cd ./testModule
+        swift build
