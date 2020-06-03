@@ -46,6 +46,5 @@ jobs:
     - name: Build Viper Project
       run: |
         echo "Creating simple Project..."
-        mkdir testModule
         vipergen generate TestModule --path=./testModule/Sources
         ls -R ./testModule
