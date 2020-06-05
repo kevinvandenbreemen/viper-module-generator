@@ -11,7 +11,7 @@ class VIPERWireFrame: VIPERWireFrameProtocol
     {
         // Generating module components
         var view: VIPERViewProtocol = VIPERView()
-        var presenter: protocol<VIPERPresenterProtocol, VIPERInteractorOutputProtocol> = VIPERPresenter()
+        var presenter: (VIPERPresenterProtocol & VIPERInteractorOutputProtocol) = VIPERPresenter()
         var interactor: VIPERInteractorInputProtocol = VIPERInteractor()
         var APIDataManager: VIPERAPIDataManagerInputProtocol = VIPERAPIDataManager()
         var localDataManager: VIPERLocalDataManagerInputProtocol = VIPERLocalDataManager()
