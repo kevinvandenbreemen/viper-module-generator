@@ -46,6 +46,6 @@ jobs:
     - name: Build Viper Project
       run: |
         echo "Creating simple Project..."
-        vipergen generate TestModule --path=./testModule/Sources/testModule
-        cd ./testModule
+        vipergen generate TestModule --path=./testing/sandbox/Sources/sandbox
+        cd ./testing/sandbox
         swift build
