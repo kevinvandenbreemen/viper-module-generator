@@ -1,0 +1,21 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SkeleKit"
+provides-nominal:
+- "5UIKit8SkeleKitV"
+provides-member:
+- ["5UIKit8SkeleKitV", ""]
+depends-top-level:
+- "SkeleKit"
+- "StringLiteralType"
+depends-member:
+- ["5UIKit8SkeleKitV", "init"]
+- ["5UIKit8SkeleKitV", "text"]
+depends-nominal:
+- "5UIKit8SkeleKitV"
+depends-dynamic-lookup:
+depends-external:
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "554f1297f2c2ae12eae7727a62ddf0ae"

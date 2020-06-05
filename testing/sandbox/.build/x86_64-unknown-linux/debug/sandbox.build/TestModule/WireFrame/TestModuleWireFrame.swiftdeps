@@ -1,0 +1,102 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TestModuleWireFrame"
+provides-nominal:
+- "7sandbox19TestModuleWireFrameC"
+provides-member:
+- ["7sandbox19TestModuleWireFrameC", ""]
+depends-top-level:
+- "AnyObject"
+- "AssignmentPrecedence"
+- !private "TestModuleAPIDataManager"
+- !private "TestModuleAPIDataManagerInputProtocol"
+- !private "TestModuleInteractor"
+- !private "TestModuleInteractorInputProtocol"
+- !private "TestModuleInteractorOutputProtocol"
+- !private "TestModuleLocalDataManager"
+- !private "TestModuleLocalDataManagerInputProtocol"
+- !private "TestModulePresenter"
+- !private "TestModulePresenterProtocol"
+- !private "TestModuleView"
+- !private "TestModuleViewProtocol"
+- "TestModuleWireFrame"
+- "TestModuleWireFrameProtocol"
+depends-member:
+- !private ["7sandbox24TestModuleAPIDataManagerC", "deinit"]
+- !private ["7sandbox24TestModuleAPIDataManagerC", "init"]
+- !private ["7sandbox37TestModuleAPIDataManagerInputProtocolP", "init"]
+- !private ["7sandbox20TestModuleInteractorC", "deinit"]
+- !private ["7sandbox20TestModuleInteractorC", "init"]
+- !private ["7sandbox33TestModuleInteractorInputProtocolP", "APIDataManager"]
+- !private ["7sandbox33TestModuleInteractorInputProtocolP", "init"]
+- !private ["7sandbox33TestModuleInteractorInputProtocolP", "localDatamanager"]
+- !private ["7sandbox33TestModuleInteractorInputProtocolP", "presenter"]
+- !private ["7sandbox34TestModuleInteractorOutputProtocolP", "init"]
+- !private ["7sandbox34TestModuleInteractorOutputProtocolP", "interactor"]
+- !private ["7sandbox34TestModuleInteractorOutputProtocolP", "view"]
+- !private ["7sandbox34TestModuleInteractorOutputProtocolP", "wireFrame"]
+- !private ["7sandbox26TestModuleLocalDataManagerC", "deinit"]
+- !private ["7sandbox26TestModuleLocalDataManagerC", "init"]
+- !private ["7sandbox39TestModuleLocalDataManagerInputProtocolP", "init"]
+- !private ["7sandbox19TestModulePresenterC", "deinit"]
+- !private ["7sandbox19TestModulePresenterC", "init"]
+- !private ["7sandbox27TestModulePresenterProtocolP", "init"]
+- !private ["7sandbox27TestModulePresenterProtocolP", "interactor"]
+- !private ["7sandbox27TestModulePresenterProtocolP", "view"]
+- !private ["7sandbox27TestModulePresenterProtocolP", "wireFrame"]
+- !private ["7sandbox14TestModuleViewC", "deinit"]
+- !private ["7sandbox14TestModuleViewC", "init"]
+- !private ["7sandbox22TestModuleViewProtocolP", "init"]
+- !private ["7sandbox22TestModuleViewProtocolP", "presenter"]
+- ["7sandbox19TestModuleWireFrameC", "AnyObject"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleAPIDataManager"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleAPIDataManagerInputProtocol"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleInteractor"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleInteractorInputProtocol"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleInteractorOutputProtocol"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleLocalDataManager"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleLocalDataManagerInputProtocol"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModulePresenter"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModulePresenterProtocol"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleView"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleViewProtocol"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleWireFrame"]
+- !private ["7sandbox19TestModuleWireFrameC", "TestModuleWireFrameProtocol"]
+- ["7sandbox19TestModuleWireFrameC", "deinit"]
+- ["7sandbox19TestModuleWireFrameC", "init"]
+- ["7sandbox19TestModuleWireFrameC", "presentTestModuleModule"]
+- !private ["7sandbox27TestModuleWireFrameProtocolP", "TestModuleAPIDataManager"]
+- !private ["7sandbox27TestModuleWireFrameProtocolP", "TestModuleInteractor"]
+- !private ["7sandbox27TestModuleWireFrameProtocolP", "TestModuleLocalDataManager"]
+- !private ["7sandbox27TestModuleWireFrameProtocolP", "TestModulePresenter"]
+- !private ["7sandbox27TestModuleWireFrameProtocolP", "TestModuleView"]
+- !private ["7sandbox27TestModuleWireFrameProtocolP", "TestModuleWireFrame"]
+- ["7sandbox27TestModuleWireFrameProtocolP", ""]
+- !private ["7sandbox27TestModuleWireFrameProtocolP", "init"]
+- ["7sandbox27TestModuleWireFrameProtocolP", "presentTestModuleModule"]
+- !private ["5UIKit16UIViewControllerC", "init"]
+depends-nominal:
+- !private "7sandbox24TestModuleAPIDataManagerC"
+- !private "7sandbox37TestModuleAPIDataManagerInputProtocolP"
+- !private "7sandbox20TestModuleInteractorC"
+- !private "7sandbox33TestModuleInteractorInputProtocolP"
+- !private "7sandbox34TestModuleInteractorOutputProtocolP"
+- !private "7sandbox26TestModuleLocalDataManagerC"
+- !private "7sandbox39TestModuleLocalDataManagerInputProtocolP"
+- !private "7sandbox19TestModulePresenterC"
+- !private "7sandbox27TestModulePresenterProtocolP"
+- !private "7sandbox14TestModuleViewC"
+- !private "7sandbox22TestModuleViewProtocolP"
+- "7sandbox19TestModuleWireFrameC"
+- "7sandbox27TestModuleWireFrameProtocolP"
+- !private "5UIKit16UIViewControllerC"
+depends-dynamic-lookup:
+depends-external:
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/UIKit.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "3bc1a6ce8b2442206176372478d1b090"

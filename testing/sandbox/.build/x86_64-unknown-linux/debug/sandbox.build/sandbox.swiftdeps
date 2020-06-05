@@ -1,0 +1,25 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "sandbox"
+provides-nominal:
+- "7sandboxAAV"
+provides-member:
+- ["7sandboxAAV", ""]
+depends-top-level:
+- "StringLiteralType"
+- "sandbox"
+depends-member:
+- ["7sandboxAAV", "init"]
+- ["7sandboxAAV", "text"]
+depends-nominal:
+- "7sandboxAAV"
+depends-dynamic-lookup:
+depends-external:
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/UIKit.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "dd30160e62f8c94033c7da5150d5e740"

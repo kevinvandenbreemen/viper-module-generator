@@ -1,0 +1,27 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TestModuleLocalDataManager"
+provides-nominal:
+- "7sandbox26TestModuleLocalDataManagerC"
+provides-member:
+- ["7sandbox26TestModuleLocalDataManagerC", ""]
+depends-top-level:
+- "TestModuleLocalDataManager"
+- "TestModuleLocalDataManagerInputProtocol"
+depends-member:
+- ["7sandbox26TestModuleLocalDataManagerC", "deinit"]
+- ["7sandbox26TestModuleLocalDataManagerC", "init"]
+- ["7sandbox39TestModuleLocalDataManagerInputProtocolP", ""]
+depends-nominal:
+- "7sandbox26TestModuleLocalDataManagerC"
+- "7sandbox39TestModuleLocalDataManagerInputProtocolP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/UIKit.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "d82ca80f93e437c1d7b3db731f391ae0"

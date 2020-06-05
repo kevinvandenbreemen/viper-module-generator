@@ -1,0 +1,59 @@
+{
+  "": {
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/master.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/TestModule/DataManager/API/TestModuleAPIDataManager.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/DataManager/API/TestModuleAPIDataManager.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/DataManager/API/TestModuleAPIDataManager.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/DataManager/API/TestModuleAPIDataManager~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/DataManager/API/TestModuleAPIDataManager.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/TestModule/DataManager/Local/TestModuleLocalDataManager.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/DataManager/Local/TestModuleLocalDataManager.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/DataManager/Local/TestModuleLocalDataManager.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/DataManager/Local/TestModuleLocalDataManager~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/DataManager/Local/TestModuleLocalDataManager.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/TestModule/Interactor/TestModuleInteractor.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Interactor/TestModuleInteractor.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Interactor/TestModuleInteractor.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Interactor/TestModuleInteractor~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Interactor/TestModuleInteractor.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/TestModule/Interactor/TestModuleItem.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Interactor/TestModuleItem.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Interactor/TestModuleItem.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Interactor/TestModuleItem~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Interactor/TestModuleItem.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/TestModule/Presenter/TestModulePresenter.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Presenter/TestModulePresenter.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Presenter/TestModulePresenter.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Presenter/TestModulePresenter~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Presenter/TestModulePresenter.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/TestModule/Protocols/TestModuleProtocols.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Protocols/TestModuleProtocols.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Protocols/TestModuleProtocols.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Protocols/TestModuleProtocols~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/Protocols/TestModuleProtocols.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/TestModule/View/TestModuleView.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/View/TestModuleView.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/View/TestModuleView.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/View/TestModuleView~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/View/TestModuleView.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/TestModule/WireFrame/TestModuleWireFrame.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/WireFrame/TestModuleWireFrame.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/WireFrame/TestModuleWireFrame.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/WireFrame/TestModuleWireFrame~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/TestModule/WireFrame/TestModuleWireFrame.swiftdeps"
+  },
+  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/Sources/sandbox/sandbox.swift": {
+    "dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/sandbox.d",
+    "object": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/sandbox.swift.o",
+    "swiftmodule": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/sandbox~partial.swiftmodule",
+    "swift-dependencies": "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/sandbox.build/sandbox.swiftdeps"
+  }
+}

@@ -1,0 +1,19 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "UIViewController"
+provides-nominal:
+- "5UIKit16UIViewControllerC"
+provides-member:
+- ["5UIKit16UIViewControllerC", ""]
+depends-top-level:
+- "UIViewController"
+depends-member:
+- ["5UIKit16UIViewControllerC", "init"]
+depends-nominal:
+- "5UIKit16UIViewControllerC"
+depends-dynamic-lookup:
+depends-external:
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "274b276969ba895f6c320aba43d2112e"

@@ -1,0 +1,37 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TestModuleView"
+provides-nominal:
+- "7sandbox14TestModuleViewC"
+provides-member:
+- ["7sandbox14TestModuleViewC", ""]
+depends-top-level:
+- "TestModulePresenterProtocol"
+- "TestModuleView"
+- "TestModuleViewProtocol"
+- "UIViewController"
+depends-member:
+- ["7sandbox14TestModuleViewC", "TestModulePresenterProtocol"]
+- ["7sandbox14TestModuleViewC", "deinit"]
+- ["7sandbox14TestModuleViewC", "init"]
+- ["7sandbox14TestModuleViewC", "presenter"]
+- ["7sandbox22TestModuleViewProtocolP", ""]
+- ["7sandbox22TestModuleViewProtocolP", "presenter"]
+- ["5UIKit16UIViewControllerC", "TestModulePresenterProtocol"]
+- ["5UIKit16UIViewControllerC", ""]
+- ["5UIKit16UIViewControllerC", "init"]
+- ["5UIKit16UIViewControllerC", "presenter"]
+depends-nominal:
+- "7sandbox14TestModuleViewC"
+- "7sandbox22TestModuleViewProtocolP"
+- "5UIKit16UIViewControllerC"
+depends-dynamic-lookup:
+depends-external:
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/x86_64-unknown-linux/debug/UIKit.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/kevin/bin/swift/swift-5.1.1-RELEASE-ubuntu18.04/usr/lib/swift/linux/x86_64/glibc.modulemap"
+interface-hash: "ad23d3a9b7a69ae51e104dbb29c8b4fe"
