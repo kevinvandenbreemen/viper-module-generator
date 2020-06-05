@@ -185,4 +185,5 @@ com_crashlytics_export_strings.xml
 
 
 **/testing/sandbox/Sources/sandbox/TestModule
+**/testing/sandbox/Sources/sandbox/.build
 **/Package.resolved
