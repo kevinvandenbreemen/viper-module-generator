@@ -46,6 +46,6 @@ jobs:
     - name: Build Viper Project
       run: |
         echo "Creating simple Project..."
-        vipergen generate TestModule --path=./testModule/Sources
+        ~/.gem/ruby/*/bin/vipergen generate TestModule --path=./testModule/Sources
         cd ./testModule
         swift build
