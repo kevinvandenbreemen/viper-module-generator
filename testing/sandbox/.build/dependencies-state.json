@@ -1,1 +1,0 @@
-{"object": {"dependencies": [{"basedOn": null, "packageRef": {"identity": "skelekit", "isLocal": false, "name": "SkeleKit", "path": "https://github.com/kevinvandenbreemen/SkeleKit.git"}, "state": {"checkoutState": {"branch": "master", "revision": "32d56a29830dd6b0b9db6b2d8dd6f997a1025360", "version": null}, "name": "checkout"}, "subpath": "SkeleKit"}]}, "version": 2}

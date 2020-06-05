@@ -1,6 +1,0 @@
-version: "Swift version 5.1.1 (swift-5.1.1-RELEASE)"
-options: "165fafdd21bf122993b6ad8e6fe9a870"
-build_time: [1591385725, 220717872]
-inputs:
-  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/checkouts/SkeleKit/Sources/UIKit/SkeleKit.swift": [1591385724, 985593726]
-  "/media/truecrypt1/development/swift/viper-module-generator/testing/sandbox/.build/checkouts/SkeleKit/Sources/UIKit/UIViewController.swift": [1591385724, 985593726]
